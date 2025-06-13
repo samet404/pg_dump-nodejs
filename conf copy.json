@@ -1,0 +1,8 @@
+{
+  "POSTGRES_PASSWORD": "postgres",
+  "POSTGRES_HOST": "127.0.0.1",
+  "POSTGRES_PORT": "5433",
+  "POSTGRES_USER": "postgres",
+  "INTERVAL_MS": "86400000",
+  "BACKUP_DIR": "backups"
+}
